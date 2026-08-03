@@ -26,4 +26,4 @@ python tradutor.py
 - Persistir novos sinais em arquivo JSON
 
 ## 👤 Autor
-Gabriel Mesquita — [https://www.linkedin.com/in/gabriel-lopes-mesquita-aa481b181/](#)
+Gabriel Mesquita — [https://www.linkedin.com/in/gabriel-lopes-mesquita-aa481b181](#)
